@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTask xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Task>
+    <Name>Task 0</Name>
+    <Desc>Zero level description</Desc>
+    <isDone>false</isDone>
+    <id>0</id>
+    <idCur>-1</idCur>
+  </Task>
+  <Task>
+    <Name>Task 1</Name>
+    <Desc>First level</Desc>
+    <isDone>false</isDone>
+    <id>1</id>
+    <idCur>-1</idCur>
+  </Task>
+  <Task>
+    <Name>Task 2 </Name>
+    <Desc>Second level</Desc>
+    <isDone>false</isDone>
+    <id>2</id>
+    <idCur>-1</idCur>
+  </Task>
+  <Task>
+    <Name>Task 3</Name>
+    <Desc>Third</Desc>
+    <isDone>true</isDone>
+    <id>3</id>
+    <idCur>0</idCur>
+  </Task>
+  <Task>
+    <Name>Task 4 </Name>
+    <Desc>Task 4</Desc>
+    <isDone>false</isDone>
+    <id>4</id>
+    <idCur>-1</idCur>
+  </Task>
+  <Task>
+    <Name>Task 5</Name>
+    <Desc>Fifth</Desc>
+    <isDone>true</isDone>
+    <id>5</id>
+    <idCur>1</idCur>
+  </Task>
+  <Task>
+    <Name>Task 6 </Name>
+    <Desc>Sixth</Desc>
+    <isDone>false</isDone>
+    <id>6</id>
+    <idCur>-1</idCur>
+  </Task>
+</ArrayOfTask>
